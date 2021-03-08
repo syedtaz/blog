@@ -1,8 +1,8 @@
-baseURL = "http://syedtaz.github.io/"
+baseURL = "https://syedtaz.github.io/"
 languageCode = "en-us"
 title = "(knife)2"
 theme = "HugoTex"
 
 [author]
   name = "Tazmilur Saad"
-  abstract = "Hi, I'm Taz! I'm currently a junior at Colgate University where I am double majoring in computer science and applied mathematics. You may find some of my posts on my research work or college experience interesting, so feel free to snoop around!"
+  abstract = "Hi, I'm Taz! I'm currently a junior at Colgate University where I am double majoring in computer science and applied mathematics. Feel free to snoop around!"
